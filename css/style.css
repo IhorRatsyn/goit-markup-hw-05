@@ -719,7 +719,6 @@ body {
 
 .modal-input::placeholder,
 .modal-textarea::placeholder {
-  border-color: #4d5ae5;
   color: rgba(64, 64, 64, 0.3);
   font-size: 18px;
   letter-spacing: -0.02em;
