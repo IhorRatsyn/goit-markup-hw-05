@@ -785,6 +785,7 @@ body {
 
 .modal-form-btn {
   display: block;
+  margin: 0 auto;
   min-width: 169px;
   min-height: 56px;
   font-family: "Roboto", sans-serif;
