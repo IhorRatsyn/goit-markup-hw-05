@@ -868,8 +868,5 @@ body {
 .modal-input:checked + .input-label .checkbox-span {
   background-color: var(--ocean);
   border: none;
-}
-
-.modal-input:checked + .input-label .checkbox-span .checkbox-icon {
   fill: var(--icon);
 }
