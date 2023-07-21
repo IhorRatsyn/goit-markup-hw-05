@@ -864,11 +864,7 @@ body {
   border-radius: 4px;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.modal-input:checked + .checkbox-span {
-  background-color: var(--ocean);
-  border: none;
-  fill: var(--icon);
-}
+
 .modal-input:checked + .input-label .checkbox-span {
   background-color: var(--ocean);
   border: none;
