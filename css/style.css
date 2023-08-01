@@ -734,6 +734,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   margin-bottom: 16px;
+  text-align: center;
 }
 
 .modal-title span {
@@ -877,9 +878,9 @@ body {
 }
 
 .modal-input:checked + .input-label .checkbox-span {
-  background-color: #4d5ae5;
+  background-color: var(--ocean);
   border: none;
 }
 .modal-input:checked + .input-label .checkbox-span svg {
-  fill: #ffffff;
+  fill: var(--icon);
 }
