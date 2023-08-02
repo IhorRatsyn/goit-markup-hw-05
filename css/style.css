@@ -882,3 +882,6 @@ body {
   border: none;
   fill: var(--icon);
 }
+.modal-input:checked + .input-label .checkbox-icon {
+  fill: var(--icon);
+}
